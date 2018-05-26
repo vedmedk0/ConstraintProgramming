@@ -1,2 +1,2 @@
 # ConstraintProgramming
-Tasks for "Constraint programming" course
+Collaborative projects for "Constraint Programming" course
